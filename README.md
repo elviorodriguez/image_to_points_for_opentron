@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51b5b0f8-bb20-4b04-a5e8-140c686c4b84)# image_to_points_for_opentron
+# image_to_points_for_opentron
 To create drawings for Opentrons plating using an image as reference in a python GUI. Created as part of a HTGAA 2025 (MIT) assignment.
 
 # Dependencies
@@ -148,7 +148,7 @@ def run(protocol):
 
 ```
 # PNG output
-https://github.com/elviorodriguez/image_to_points_for_opentron/blob/main/grafico_puntos.png
+![image](https://github.com/elviorodriguez/image_to_points_for_opentron/blob/main/grafico_puntos.png)
 
 # Opentron OT-2 simulation: TrypanOTron
 ![image](https://github.com/user-attachments/assets/fbf73860-6229-4e35-bead-278e08436684)
