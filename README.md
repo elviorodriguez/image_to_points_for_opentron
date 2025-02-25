@@ -1,5 +1,5 @@
 # image_to_points_for_opentron
-To create drawings for Opentrons plating using an image as reference in a python GUI.
+To create drawings for Opentrons plating using an image as reference in a python GUI. Created as part of a HTGAA 2025 (MIT) assignment.
 
 # Dependencies
  - tk
