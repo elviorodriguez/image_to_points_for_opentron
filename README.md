@@ -147,8 +147,5 @@ def run(protocol):
       pipette_20ul.drop_tip()
 
 ```
-# PNG output
-![image](https://github.com/elviorodriguez/image_to_points_for_opentron/blob/main/grafico_puntos.png)
-
 # Opentron OT-2 simulation: TrypanOTron
-![image](https://github.com/user-attachments/assets/fbf73860-6229-4e35-bead-278e08436684)
+![image](https://github.com/user-attachments/assets/b1abd5c8-e9fd-4686-9bd9-2ce14659eab7)
