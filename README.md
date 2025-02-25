@@ -98,11 +98,7 @@ def run(protocol):
       currLoc = pipette._get_last_location_by_api_version()
       pipette.move_to(currLoc.move(types.Point(z=5)))
 
-  ###
-  ### YOUR CODE HERE to create your design <------------------------------------
-  ###
-
-  # Read CSV data from URL
+  # Read CSV data <----------------------- HERE GOES THE TABLE ---------
   data = pd.read_csv('dots.csv')
 
   # Process each color in the order defined by well_colors
