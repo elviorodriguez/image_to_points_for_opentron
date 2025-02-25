@@ -13,7 +13,12 @@ To create drawings for Opentrons plating using an image as reference in a python
 python image_to_points.py imagen.png
 ```
 
-Orient your image as needed and then add as many points (R,G,B,O,Y colors) as you want using the image as reference. Once finished, export your TSV file. You can excecute it using the following code in an Opentron OT-2:
+Orient your image as needed and then add as many points (R,G,B,O,Y colors) as you want using the image as reference:
+
+![image](https://github.com/user-attachments/assets/87f15910-2341-4110-8de6-b0823e9bdefb)
+
+
+Once finished, export your TSV file. You can excecute it using the following code in an Opentron OT-2:
 
 ``` python
 from opentrons import types
